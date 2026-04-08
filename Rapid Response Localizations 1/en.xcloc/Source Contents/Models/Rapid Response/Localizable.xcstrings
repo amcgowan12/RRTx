@@ -1,0 +1,85 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+
+    },
+    " and must not replace clinical judgment or official protocols." : {
+
+    },
+    "—" : {
+
+    },
+    "%@%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@%2$@"
+          }
+        }
+      }
+    },
+    "%lld." : {
+
+    },
+    "•" : {
+
+    },
+    "CI" : {
+
+    },
+    "Clinical Reference Tool" : {
+
+    },
+    "Conversion Tables" : {
+
+    },
+    "Dose / Route" : {
+
+    },
+    "Drug" : {
+
+    },
+    "educational and reference purposes only" : {
+
+    },
+    "Educational Use Only" : {
+
+    },
+    "Favorites" : {
+
+    },
+    "I Agree & Continue" : {
+
+    },
+    "I understand that this app is for " : {
+
+    },
+    "Key Conversion Principles" : {
+
+    },
+    "Mode" : {
+
+    },
+    "No Favorites" : {
+
+    },
+    "Rapid Response" : {
+
+    },
+    "Rapid Response Guide" : {
+
+    },
+    "Search topics..." : {
+
+    },
+    "See Also" : {
+
+    },
+    "Tap the bookmark icon on any topic to save it here." : {
+
+    }
+  },
+  "version" : "1.1"
+}

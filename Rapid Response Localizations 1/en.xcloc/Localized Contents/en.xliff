@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Models/Rapid Response/Localizable.xcstrings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
+    </header>
+    <body>
+      <trans-unit id="" xml:space="preserve">
+        <source/>
+        <target state="new"/>
+        <note/>
+      </trans-unit>
+      <trans-unit id=" and must not replace clinical judgment or official protocols." xml:space="preserve">
+        <source> and must not replace clinical judgment or official protocols.</source>
+        <target state="new"> and must not replace clinical judgment or official protocols.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%@%@" xml:space="preserve">
+        <source>%1$@%2$@</source>
+        <target state="new">%1$@%2$@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld." xml:space="preserve">
+        <source>%lld.</source>
+        <target state="new">%lld.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="CI" xml:space="preserve">
+        <source>CI</source>
+        <target state="new">CI</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Clinical Reference Tool" xml:space="preserve">
+        <source>Clinical Reference Tool</source>
+        <target state="new">Clinical Reference Tool</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Conversion Tables" xml:space="preserve">
+        <source>Conversion Tables</source>
+        <target state="new">Conversion Tables</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Dose / Route" xml:space="preserve">
+        <source>Dose / Route</source>
+        <target state="new">Dose / Route</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Drug" xml:space="preserve">
+        <source>Drug</source>
+        <target state="new">Drug</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Educational Use Only" xml:space="preserve">
+        <source>Educational Use Only</source>
+        <target state="new">Educational Use Only</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Favorites" xml:space="preserve">
+        <source>Favorites</source>
+        <target state="new">Favorites</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="I Agree &amp; Continue" xml:space="preserve">
+        <source>I Agree &amp; Continue</source>
+        <target state="new">I Agree &amp; Continue</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="I understand that this app is for " xml:space="preserve">
+        <source>I understand that this app is for </source>
+        <target state="new">I understand that this app is for </target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Key Conversion Principles" xml:space="preserve">
+        <source>Key Conversion Principles</source>
+        <target state="new">Key Conversion Principles</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Mode" xml:space="preserve">
+        <source>Mode</source>
+        <target state="new">Mode</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No Favorites" xml:space="preserve">
+        <source>No Favorites</source>
+        <target state="new">No Favorites</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rapid Response" xml:space="preserve">
+        <source>Rapid Response</source>
+        <target state="new">Rapid Response</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rapid Response Guide" xml:space="preserve">
+        <source>Rapid Response Guide</source>
+        <target state="new">Rapid Response Guide</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Search topics..." xml:space="preserve">
+        <source>Search topics...</source>
+        <target state="new">Search topics...</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="See Also" xml:space="preserve">
+        <source>See Also</source>
+        <target state="new">See Also</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tap the bookmark icon on any topic to save it here." xml:space="preserve">
+        <source>Tap the bookmark icon on any topic to save it here.</source>
+        <target state="new">Tap the bookmark icon on any topic to save it here.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="educational and reference purposes only" xml:space="preserve">
+        <source>educational and reference purposes only</source>
+        <target state="new">educational and reference purposes only</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="—" xml:space="preserve">
+        <source>—</source>
+        <target state="new">—</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="•" xml:space="preserve">
+        <source>•</source>
+        <target state="new">•</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Models/Rapid Response/Rapid Response-InfoPlist.xcstrings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Rapid Response</source>
+        <target state="new">Rapid Response</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Rapid Response</source>
+        <target state="new">Rapid Response</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
