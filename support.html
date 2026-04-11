@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Rapid Response Support</title>
+    <style>
+        :root {
+            color-scheme: light dark;
+            --bg: #e3ebf4;
+            --card: #f8fbfe;
+            --text: #152235;
+            --muted: #4d6078;
+            --line: #b9c8d8;
+            --accent: #214c7a;
+        }
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg: #0f141b;
+                --card: #18202a;
+                --text: #eef4fb;
+                --muted: #b2c1d4;
+                --line: #314152;
+                --accent: #8db7e6;
+            }
+        }
+        * { box-sizing: border-box; }
+        body {
+            margin: 0;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+            background: linear-gradient(180deg, var(--bg), #d9e4ef);
+            color: var(--text);
+        }
+        @media (prefers-color-scheme: dark) {
+            body { background: linear-gradient(180deg, var(--bg), #121923); }
+        }
+        main {
+            max-width: 760px;
+            margin: 0 auto;
+            padding: 32px 20px 48px;
+        }
+        .card {
+            background: var(--card);
+            border: 1px solid var(--line);
+            border-radius: 20px;
+            padding: 24px;
+            box-shadow: 0 10px 24px rgba(0, 0, 0, 0.08);
+        }
+        h1, h2 { margin: 0 0 12px; }
+        p, li { line-height: 1.55; color: var(--muted); }
+        a { color: var(--accent); }
+        ul { padding-left: 20px; }
+        .back { display: inline-block; margin-bottom: 18px; }
+    </style>
+</head>
+<body>
+    <main>
+        <a class="back" href="./index.html">Back</a>
+        <section class="card">
+            <h1>Rapid Response Support</h1>
+            <p>Rapid Response is an iOS bedside reference app for rapid response, acute deterioration, and common inpatient emergencies.</p>
+
+            <h2>Need Help?</h2>
+            <ul>
+                <li>Open an issue on the GitHub repository.</li>
+                <li>Use the in-app feedback option if available.</li>
+                <li>Use the contact information listed on the App Store.</li>
+            </ul>
+
+            <h2>When Reporting a Problem</h2>
+            <ul>
+                <li>Device model</li>
+                <li>iOS version</li>
+                <li>App version</li>
+                <li>What you were trying to do</li>
+                <li>What happened instead</li>
+                <li>Screenshots, if available</li>
+            </ul>
+
+            <h2>Important Note</h2>
+            <p>Rapid Response is a clinical reference tool and does not replace clinical judgment, pharmacy review, institutional policy, or specialist consultation.</p>
+        </section>
+    </main>
+</body>
+</html>
