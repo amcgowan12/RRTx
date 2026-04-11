@@ -4,37 +4,56 @@ Effective date: August 15, 2025
 
 Rapid Response is designed to work primarily with content stored locally on the device.
 
-## Information Collection
+## Information We Do Not Collect
 
-Rapid Response does not collect, store, or sell personal information for advertising or data brokerage purposes.
+Rapid Response does not require an account and does not collect personal information for advertising, profiling, or sale.
 
-The app may store limited information locally on your device, such as:
+The app does not currently include:
 
-- Favorites or bookmarked topics
-- Calculator selections
-- Basic in-app preferences
+- third-party analytics
+- ad trackers
+- crash-reporting SDKs
+- account creation
+- cloud sync
 
-This information stays on your device unless you choose to share it.
+## Information Stored on Device
 
-## Analytics and Tracking
+Rapid Response may store limited app data locally on your device to support app functionality, including:
 
-Rapid Response does not use third-party advertising trackers.
+- saved favorites or bookmarked topics
+- disclaimer acceptance state
 
-If analytics or crash reporting tools are added in a future release, this policy will be updated before those changes are introduced.
+This data is stored locally using standard iOS app storage and is not transmitted to us by the app itself.
+
+## User-Initiated Email Feedback
+
+Rapid Response includes an option to send feedback by email.
+
+If you choose to use that feature:
+
+- your message is sent through Apple Mail or your configured mail app
+- your email address and any information you include in the message may be visible to the recipient
+- the content of that email is governed by your email provider, not by in-app data collection
+
+Do not include protected health information or patient identifiers in feedback messages unless your use complies with applicable law and institutional policy.
+
+## External Links
+
+The app may open external links such as journal articles, support pages, or reference websites. When you open an external link, the privacy practices of that site apply.
 
 ## Health and Medical Information
 
-Rapid Response is a clinical reference tool. It is not intended to create a physician-patient relationship, replace clinical judgment, or serve as a medical record.
-
-Do not enter protected health information unless your use complies with applicable laws, regulations, and institutional policy.
+Rapid Response is a clinical reference tool. It is not a medical record, does not create a clinician-patient relationship, and does not replace clinical judgment, pharmacy review, or institutional policy.
 
 ## Data Sharing
 
-Rapid Response does not share personal data with third parties except when required by law.
+Rapid Response does not share personal data with third parties through in-app tracking or analytics.
+
+Information may only be disclosed if required by law or if you choose to share information yourself, such as by sending an email.
 
 ## Data Security
 
-Information stored by the app is limited to what is needed for app functionality and is retained on-device where possible.
+Because stored app data is limited and kept on-device where possible, data exposure is minimized. No app can guarantee absolute security.
 
 ## Children’s Privacy
 
@@ -42,8 +61,8 @@ Rapid Response is not directed to children under 13.
 
 ## Changes to This Policy
 
-This privacy policy may be updated from time to time. Any material updates will be reflected in a revised version posted at this URL.
+This policy may be updated as app features change. Material updates will be reflected in the version posted at this URL.
 
 ## Contact
 
-For privacy questions or support requests, please use the support information provided on the App Store listing or GitHub repository.
+For privacy questions or support requests, please use the support information provided on the GitHub repository or App Store listing.
