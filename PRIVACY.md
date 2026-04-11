@@ -1,6 +1,6 @@
 # Rapid Response Privacy Policy
 
-Effective date: August 15, 2025
+Effective date: April 1st, 2026
 
 Rapid Response is designed to work primarily with content stored locally on the device.
 
